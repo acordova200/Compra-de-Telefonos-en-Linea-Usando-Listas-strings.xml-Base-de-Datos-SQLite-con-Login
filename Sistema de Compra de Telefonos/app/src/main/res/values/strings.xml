@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Sistema de Compra de Telefonos</string>
+    <string name="title_activity_logeado">Logeado</string>
+
+    <string name="configuracion">Configuraciones</string>
+    <string name="usuariovacio">Ingrese su usuario</string>
+    <string name="clavevacia">Ingrese su clave</string>
+    <string name="bienvenida">Bienvenido al Sistema</string>
+    <string name="errorlogin">Error</string>
+    <string name="hintusuario">Usuario</string>
+    <string name="btningresar">Ingresar</string>
+    <string name="btnsalir">Salir</string>
+
+    <string-array name="telefonos">
+        <item>Iphone</item>
+        <item>Samsung</item>
+        <item>Huawei</item>
+        <item>LG</item>
+        <item>Alcatel</item>
+        <item>ZTE</item>
+        <item>Xiaomi</item>
+    </string-array>
+
+    <string-array name="gama">
+        <item>Alta</item>
+        <item>Media</item>
+        <item>Baja</item>
+    </string-array>
+    <string name="title_activity_lista_telefonosa_comprar">Lista de Telefonos a Comprar</string>
+    <string name="title_activity_gamade_telefonos">Gama de Telefonos</string>
+    <string name="title_activity_compra_realizada">Compra Realizada</string>
+
+</resources>
